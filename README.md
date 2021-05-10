@@ -1,2 +1,1 @@
-# Rev_shell_asm
-Assembly Reverse Shell
+A simple Reverse Shell in Assembly x86_64
