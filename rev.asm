@@ -1,6 +1,6 @@
 BITS 64
 
-;Etablir un socket, Etablir une connexion, Utiliser le syscall write pour envoyer au socket
+;Simple Rev Shell in Nasm by Tundara
 
 global _start
 
